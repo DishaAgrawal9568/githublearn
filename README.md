@@ -1,3 +1,3 @@
 # githublearn
-learning guithub commands<br>
+learning github commands<br>
 author-Disha Agrawal
